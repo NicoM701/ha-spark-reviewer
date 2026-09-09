@@ -1,0 +1,9 @@
+**/auth.json
+**/hosts.yml
+**/state.json
+**/running.lock
+**/review-output.json
+**/comment.md
+**/schema.json
+**/codex/
+**/gh/
