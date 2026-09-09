@@ -1,5 +1,5 @@
 name: Spark PR Review
-version: "0.1.0"
+version: "0.1.1"
 slug: spark_review
 description: Spark-only diff reviews for NicoM701, with no model fallback
 arch:
